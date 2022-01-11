@@ -166,5 +166,6 @@ SWAGGER_SETTINGS = {
         }
     },
 }
+AUTH_USER_MODEL = 'accounts.User'
 
 CORS_ORIGIN_ALLOW_ALL = True
